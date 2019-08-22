@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Le Jeu de la Vie</title>
+        <title>Game of Life</title>
         <meta charset="utf-8" />
 		<link rel="stylesheet" href="game_of_life.css"/>
     </head>
@@ -12,7 +12,7 @@
 	
 	<div id="tableContainer"></div>
 	
-	<div id="nextGen">Génération suivante</div>
+	<div id="nextGen">Next generation</div>
 	
 	<script src="game_of_life.js" type="text/javascript"></script>
 	
